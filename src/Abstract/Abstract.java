@@ -1,4 +1,4 @@
-package Inheritance;
+package Abstract;
 
 abstract class Bird {
     private int x, y, z;
